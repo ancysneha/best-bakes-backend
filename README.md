@@ -23,12 +23,12 @@ GET /api/products/:id
 
   ## 📦 Database
 
--MongoDB Atlas
--Product schema includes:
--name
--description
--price
--image
+- MongoDB Atlas
+- Product schema includes:
+- name
+- description
+- price
+- image
 
 ## ⚙️ Environment Variables
 Create a `.env` file:
